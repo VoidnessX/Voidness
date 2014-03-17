@@ -1,1 +1,1 @@
-Voidness Programming Environment Construct
+Voidness Project
